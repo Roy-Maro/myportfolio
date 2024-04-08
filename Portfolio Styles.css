@@ -14,8 +14,6 @@ body{
   justify-content: center;
   align-items: center;
   height: 12vh;
-  width: 100vw;
-  overflow-x: hidden;
 }
 
 .navImg{
